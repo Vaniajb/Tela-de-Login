@@ -1,0 +1,50 @@
+
+/* label */
+.espaco{
+    
+    color: black;
+    margin-bottom: 1px;
+}
+.espaco1{
+    display: inline;
+}
+
+
+/* input */
+.distancia{
+    display: block;
+    margin-top: 5px; 
+    text-align: center;
+}
+.espaco2{
+    margin-bottom: 5px;
+    padding: 0,5px;
+    margin-top: 20px;
+
+}
+.espaco3{
+    display: block;
+}
+.distancia1{
+    
+    display: inline;
+}
+
+
+
+/* formulario */
+
+
+.detalhe{
+    width: 500px;
+    border: 3px ridge ;
+    color: rgb(16, 4, 27);
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgba(156, 165, 187, 0.705);
+    margin-top: 10px;
+}
+.body
+{
+    background-color: aquamarine;
+}
